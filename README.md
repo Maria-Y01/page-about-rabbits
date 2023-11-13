@@ -1,5 +1,6 @@
 # Page about rabbits
 This page is about rabbits. But this is not as important as what this site was created for. The main task was about responsible layout: what is it, how does it work and how to implement it in website. I took this task from lesson about responsible layout on LinkedIn Learning.
+On mobile devices and devices with max width of 750px element "More Rabbits" moves to the end of the page.
 
 ## How does it look like
 ### On desktop
