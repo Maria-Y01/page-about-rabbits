@@ -7,7 +7,7 @@ On mobile devices and devices with max width of 750px element "More Rabbits" mov
 <img width="960" alt="Page about rabbits desktop version" src="https://github.com/Maria-Y01/page-about-rabbits/assets/136391989/97ac5590-e529-46a2-b2d9-affd4138e8c5">
 
 ### Mobile version
-<img width="300" alt="Page about rabbits mobile version" src="https://github.com/Maria-Y01/page-about-rabbits/assets/136391989/db178598-6098-442b-8153-129e25586ef9">
+<img width="250" alt="Page about rabbits mobile version" src="https://github.com/Maria-Y01/page-about-rabbits/assets/136391989/db178598-6098-442b-8153-129e25586ef9">
 
 ### Devices with max width of 750px
 <img width="500" alt="Page about rabbits on other devices" src="https://github.com/Maria-Y01/page-about-rabbits/assets/136391989/21113035-4824-4f13-b8db-1b40178a16f6">
